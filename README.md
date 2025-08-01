@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [X] **The web app contains a page that features a create form to add a new crewmate**
   - Users can **nickname** the crewmate
   - Users can set the crewmate’s attributes by clicking on one of several values
-- [X] **The web app includes a summary page of all the user’s added crewmatese**
+- [X] **The web app includes a summary page of all the user’s added crewmates**
   -  The web app contains a summary page dedicated to displaying all the crewmates the user has made so far
   -  The summary page is sorted by creation date such that the most recently created crewmates appear at the top
 - [X] **A previously created crewmate can be updated from the list of crewmates in the summary page**
